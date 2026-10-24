@@ -21,7 +21,7 @@
 ---
 
 - [rulerom.com](rulerom.com) (Hub)
-- [liza.rulerom.com](liza.rulerom.com) → Системный язык программирования для переносимых вычислений с определённой семантикой и контролируемой стоимостью операций.
+- [liza.rulerom.com](https://liza.rulerom.com) → Системный язык программирования для переносимых вычислений с определённой семантикой и контролируемой стоимостью операций.
 - [decima.rulerom.com](decima.rulerom.com) → Нейроморфная архитектура, IDE, бенчмарки
 - [philo.rulerom.com](philo.rulerom.com) → Философия: коридор субъектности, эстафета
 - [audrey.rulerom.com](audrey.rulerom.com) → Аудио-эксперименты на вакуумном субстрате
